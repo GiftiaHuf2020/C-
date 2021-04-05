@@ -4,7 +4,4 @@
 
 <br/>
 下载地址：
-
-<a href="bin/Debug/Confession1.exe" download>
-  <p style="font-weight:bold;">点击这里</p>
-</a>
+https://drive.google.com/file/d/1RQeXGUf-ur63ZOPP_AwaJfMD9BrzVSAJ/view
